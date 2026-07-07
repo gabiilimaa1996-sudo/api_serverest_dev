@@ -1,0 +1,17 @@
+{
+  "validUser": {
+    "email": "fulano@qa.com",
+    "password": "teste"
+  },
+  "invalidPasswordUser": {
+    "email": "fulano@qa.com",
+    "password": "senhaErrada"
+  },
+  "missingEmailUser": {
+    "password": "teste"
+  },
+  "missingPasswordUser": {
+    "email": "fulano@qa.com"
+  },
+  "emptyBody": {}
+}
